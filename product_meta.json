@@ -1,0 +1,24 @@
+{
+  "number": 9,
+  "product_id": "JLZ-EDU-SK-009",
+  "chinese_name": "老带新活动策划",
+  "english_name": "Referral Campaign Planner",
+  "repository_name": "edu-referral-campaign-planner",
+  "product_type": "Skill",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-referral-campaign-planner-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "老生规模、可奖励条件、课程毛利、活动周期、统计口径和风控规则",
+  "main_output": "活动机制、奖励阶梯、参与流程、统计表字段、防刷规则和运营日历",
+  "package_entries": [
+    "edu-referral-campaign-planner/SKILL.md",
+    "edu-referral-campaign-planner/references/DOMAIN_GUIDE.md",
+    "edu-referral-campaign-planner/references/EXAMPLES.md",
+    "edu-referral-campaign-planner/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-009",
+  "repository_name": "edu-referral-campaign-planner",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-referral-campaign-planner-v1.0.0.zip",
+  "sha256": "C8C0226BBEBBAD2F06EE68138E798DE4D0218A6DAEFA4A214ED58AE4FDC121E5",
+  "bytes": 4982,
+  "entries": [
+    "edu-referral-campaign-planner/SKILL.md",
+    "edu-referral-campaign-planner/references/DOMAIN_GUIDE.md",
+    "edu-referral-campaign-planner/references/EXAMPLES.md",
+    "edu-referral-campaign-planner/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T21:38:26.5551086+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
